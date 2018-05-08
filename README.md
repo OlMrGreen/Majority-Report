@@ -1,1 +1,3 @@
 # Majority-Report
+
+Setup concept
